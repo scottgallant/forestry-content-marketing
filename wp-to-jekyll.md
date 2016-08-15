@@ -12,9 +12,9 @@ Professionally, I've been working in the digital marketing realm since 2007. I c
 **Bringing Static Back**  
 I'm a pretty basic, "no-frills" kind of guy. I enjoy minimalist design. My favorite ice cream is vanilla. And I like when things work the way I expect - the first time, and every time after. And as I dove deeper down the rabbit hole of front end development, it was the simplicity and stability of being able to create things with nothing more than a little markup and JavaScript that got me thinking, "Is it feasible to develop websites this way today?"  
 
-Enter Static Site Generators (or SSGs). Simply put, an SSG is a templating engine that takes text, assets, and various other files and spits out static html webpages. Because many modern SSGs utilize templates (e.g. includes, layaouts, etc.), support the use of Markdown and Meta Data, and include an asset pipeline (among many other features), they facilitation the development of fast, simple, large-scale websites without having to rely on a dynamic CMS like WordPress.  
+Enter Static Site Generators (or SSGs). Simply put, an SSG is a templating engine that takes text, assets, and various other files and spits out static html webpages. Because many modern SSGs utilize templates (e.g. includes, layaouts, etc.), support the use of Markdown and Meta Data, and include an asset pipeline (among many other features), they facilitate the development of fast, simple, large-scale websites without having to rely on a dynamic CMS like WordPress.  
 
-There are currently [437 Static Site Generators](https://staticsitegenerators.net/) available for use. So why Jekyll? For starters, Jekyll is extremely popular. 
+There are currently [437 Static Site Generators](https://staticsitegenerators.net/) available for use. So why Jekyll? For starters, Jekyll is extremely popular.
 
 **Conclusion**  
 
