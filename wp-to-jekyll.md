@@ -31,3 +31,4 @@ CMSs to static websites.
 
  **Helpful Links / Other Resources**
 * https://www.sitepoint.com/wordpress-vs-jekyll-might-want-make-switch/  
+* http://www.spiderwriting.co.uk/static-dynamic.php
