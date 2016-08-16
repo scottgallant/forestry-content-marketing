@@ -19,7 +19,7 @@ My gripes with dynamic CMSs in general, and WordPress in particular, are the sam
 
 2. **Speed**
 
-   Another major downside to working with WordPress is the painfully slow load times many users experience. On top of a database query occurring _every time_ someone visits a page on your WordPress site, all of those fancy plugins, gigantic slider images, and excess code that accompany so many WordPress installs can really take a toll on page speed and performance. Sure, you can combat this by using caching plugins, optimizing your images, and paying top-dollar for hosting, but these all seem to be bandaids rather than real solutions.  
+   Another major downside to working with WordPress is the painfully slow load times many users experience. On top of a database query occurring _every time_ someone visits a page on your WordPress site, all of those fancy plugins, gigantic slider images, and excess code that accompany so many WordPress installs can really take a toll on page speed and performance. Sure, you can combat this by using caching plugins, optimizing your images, and paying top-dollar for hosting, but all of these seem to be bandaids rather than real solutions.  
 
    Most of us already know that even a [1 second delay in page response time can cost companies **BIG** money](https://blog.kissmetrics.com/loading-time/). With Google now using [site speed as a ranking factor](https://webmasters.googleblog.com/2010/04/using-site-speed-in-web-search-ranking.html), the need for speed is even greater.  
 
@@ -27,7 +27,7 @@ My gripes with dynamic CMSs in general, and WordPress in particular, are the sam
 
    At first, the multitude of bells and whistles that WordPress provides was something I loved. If there's some functionality I want that isn't provided by the currently installed theme, there's a good chance a 3rd party plugin will do the trick. For non-technical users, having the ability to easily extend the functionality of their website without having to creating something from scratch is pretty amazing - but it comes at a price.  
 
-   For starters, these bells and whistles are a major cause of the speed issues mentioned above. Second, each new add-on or extension can quickly clutter up an already complicated dashboard, making it difficult for even seasoned WordPress users to navigate. Lastly, all of these plugins, themes, and other extensions must be constantly updated to avoid security and compatibility issues. See, not simple after all, right?  
+   For starters, these bells and whistles are a major cause of the speed issues mentioned in #2 above. Second, each new add-on or extension can quickly clutter up an already complicated dashboard, making it difficult for even seasoned WordPress users to navigate. Lastly, all of these plugins, themes, and other extensions must be constantly updated to avoid security and compatibility issues. See, not simple after all, right?  
 
    ![Typical WordPress Dashboard](http://nowgoblog.com/wp-content/uploads/2015/02/03-wordpress-dashboard-updates-link.jpg)  
 
