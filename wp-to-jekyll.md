@@ -7,13 +7,13 @@ web development platform, I believe my experience is a reflection of the growing
 ### My Background with WordPress and Why I Started Looking for Something New
 Professionally, I've been working in the digital marketing realm since 2007. I can remember the glory days of stuffing hundreds of hidden keywords in a site's footer and buying links from Digital Point forums (shhh, don't tell Google). The first digital agency I worked focused on Drupal development, before quickly pivoting to an all-WordPress shop. Each agency I've worked with since then has positioned itself as a "WordPress Specialist" in some shape or form.  
 
-Working in those WordPress-centric environment, I gained firsthand experience of the pros and cons of a dynamic CMS, particularly from the client's perspective. It wasn't until a year ago, when I started looking to transition from a purely digital marketing role to something more involved in front end development, that the annoying WordPress "quirks" that would make me scratch my head before sending the dev team a support ticket became cause for all night hair-tearing sessions of epic frustration.  
+Working in those WordPress-centric environments, I gained firsthand experience of the pros and cons of a dynamic CMS, particularly from the client's perspective. It wasn't until a year ago, when I started looking to transition from a purely digital marketing role to something more involved in front end development, that the annoying WordPress "quirks" that would make me scratch my head before sending out a support ticket became cause for all night hair-tearing sessions of epic frustration.  
 
-My gripes with dynamic CMSs in general, and WordPress in particular, are the same that many developer share:  
+My gripes with dynamic CMSs in general, and WordPress in particular, are the same that many developers share:  
 
 1. **Security**
 
-   This is probably the most frequent - and most damning - knock on WordPress. The platform is notorious for being a primary, oftentimes easy target for hackers. In 2014, it was determined that [nearly 74% of WordPress installs were vulnerable to hacker attacks](https://www.wpwhitesecurity.com/wordpress-security-news-updates/statistics-70-percent-wordpress-installations-vulnerable/). Some of this can be attributed to WordPress's popularity ([26% of all websites globally use WordPress](https://wordpress.com/about/)). Still, the alarming amount of security holes caused by outdated WordPress versions, cut rate plugins, MySQL databases, login interfaces, images, malicious search queries, and more are a major reason why some developers are looking for alternatives.  
+   This is probably the most frequent - and most damning - knock on WordPress. The platform is notorious for being an all too easy target for hackers. In 2014, it was determined that [nearly 74% of WordPress installs were vulnerable to hacker attacks](https://www.wpwhitesecurity.com/wordpress-security-news-updates/statistics-70-percent-wordpress-installations-vulnerable/). Some of this can be attributed to WordPress's popularity ([26% of all websites globally use WordPress](https://wordpress.com/about/)). Still, the alarming amount of security holes caused by outdated WordPress versions, cut rate plugins, MySQL databases, login interfaces, images, malicious search queries, and more are a major reason why some developers are looking for alternatives.  
 
 2. **Speed**
 
@@ -25,7 +25,7 @@ My gripes with dynamic CMSs in general, and WordPress in particular, are the sam
 
 4. **Scalability**
 
-   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+   I'll admit, WordPress is actually pretty damn scalable. The issue, though, is that scaling with WordPress greatly exacerbates the the speed and simplicity issues discussed above.
 
 ### Bringing Static Back
 I'm a pretty basic, "no-frills" kind of guy. I enjoy minimalist design. My favorite ice cream is vanilla. And I like when things work the way I expect - the first time, and every time after. So as I dove deeper down the rabbit hole of front end development, it was the simplicity and stability of being able to create things with nothing more than a little markup and JavaScript that got me wondering, "Is it feasible to develop full-scale websites this way today?"  
