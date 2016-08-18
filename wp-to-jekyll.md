@@ -8,7 +8,7 @@ web development platform, I believe my experience is a reflection of the growing
 ### My Background with WordPress and Why I Started Looking for Something New
 Professionally, I've been working in the digital marketing realm since 2007. I can remember the glory days of stuffing hundreds of hidden keywords in a site's footer and buying links from Digital Point forums (shhh, don't tell Google). The first digital agency I worked with focused on Drupal development before becoming an all-WordPress shop. Each agency I've worked with since has positioned itself as a "WordPress Specialist" in some shape or form.  
 
-Working in those WordPress-centric environments, I gained firsthand experience of the pros and cons of a dynamic CMS, particularly from the client's perspective. It wasn't until a year ago, when I started looking to transition from a purely digital marketing role to something more involved in front end development, that the annoying WordPress "quirks" that would make me scratch my head before sending out a support ticket became cause for all night hair-tearing sessions of epic frustration.  
+Working in those WordPress-centric environments, I gained firsthand experience of the pros and cons of a dynamic CMS, particularly from the client's perspective. It wasn't until a year ago, when I started transitioning from a digital marketer to a front end developer, that the annoying WordPress "quirks" that would make me scratch my head before sending out a support ticket became cause for all night hair-tearing sessions of epic frustration.  
 
 My gripes with dynamic CMSs in general, and WordPress in particular, are the same that many developers share:  
 
@@ -28,14 +28,15 @@ My gripes with dynamic CMSs in general, and WordPress in particular, are the sam
 
    At first, the multitude of bells and whistles that WordPress provides was something I loved. If there was some functionality I wanted that wasn't provided by the currently installed theme, there was a good chance a 3rd party plugin would do the trick. For non-technical users, having the ability to easily extend the functionality of their website without having to creating something from scratch is pretty amazing - but it comes at a price.  
 
-   For starters, these bells and whistles are a major cause of the speed issues mentioned in #2 above. Second, each new add-on or extension can quickly clutter up an already complicated dashboard, making it difficult for even seasoned WordPress users to navigate. Finally, all of these plugins, themes, and other extensions must be constantly updated to avoid security and compatibility issues. Not so simple after all, right?  
+   For starters, these bells and whistles are a major cause of the speed issues mentioned in #2 above. Second, each new add-on or extension can quickly clutter up an already complicated dashboard, making it difficult for even seasoned WordPress users to navigate.  I recently logged into a friend's WordPress site only to find that his dashboard has become an unusable wall of text (even with spammy weight-loss commments)!  Finally, all of these plugins, themes, and other extensions must be constantly updated to avoid security and compatibility issues. Not so simple after all, right?
+   
+   ![Imgur](http://i.imgur.com/sr9YxAm.jpg)
 
-   ![Typical WordPress Dashboard](http://nowgoblog.com/wp-content/uploads/2015/02/03-wordpress-dashboard-updates-link.jpg)  
 
 ### Bringing Static Back
 I'm a basic, "no-frills" kind of guy. I enjoy minimalist design. My favorite ice cream is vanilla. And I like when things work the way I expect - the first time, and every time after. So as I dove deeper down the rabbit hole of front end development, it was the simplicity and stability of being able to create things with nothing more than a little markup and JavaScript that got me wondering, "Is it feasible to develop full-scale websites this way today?"  
 
-Enter Static Site Generators (or SSGs). Simply put, an SSG is a templating engine that takes markup, assets, and various other data files and spits out static html webpages. Because many modern SSGs utilize templates (e.g. includes, layaouts, etc.), support the use of Markdown and Meta Data, and include an asset pipeline (among many other features), they facilitate the rapid development of simple, easy to maintain websites without having to rely on a dynamic CMS like WordPress.  
+Enter Static Site Generators (or SSGs). Simply put, an SSG is a templating engine that takes markup, assets, and various other data files and spits out static html webpages. Because many modern SSGs utilize templates, Markdown, and include an asset pipeline (among many other features), they facilitate the rapid development of websites. Websites that are easy to maintain and won't just break 6-months down the road (no [code rot](https://en.wikipedia.org/wiki/Software_rot)!).  Need to change your footer across 200 pages? No problem, just edit your footer include file.  Need to loop through the 10 most-recent posts?  No problem, most of the templating langues have a [small learning curve](https://github.com/Shopify/liquid/wiki/liquid-for-designers).
 
 For the same reasons that WordPress gets a bad rap, I've found static sites to shine:  
 
@@ -49,7 +50,7 @@ For the same reasons that WordPress gets a bad rap, I've found static sites to s
 
 3. **Simplicity**
 
-   So far, this is my favorite thing about static sites in general, and Jekyll in particular. Once you learn the basic installation and usage workflow of an SSG, you can build pretty much anything you want using simple markup and programming languages. There's no real framework to fight against, no constant updates to be made, tons of quality (and often free) hosting options, and easy iteration and deployment. Static sites just work - the first time, and every time after.  
+   So far, this is my favorite thing about static sites in general, and [Jekyll](https://jekyllrb.com) in particular. Once you learn the basic installation and usage workflow of an SSG, you can build pretty much anything you want using simple markup and programming languages. There's no real framework to fight against, no constant updates to be made, tons of quality (and often free) hosting options, and easy iteration and deployment. Static sites just work - the first time, and every time after.  
 
 **Wrapping Up**  
 If you're reading this post, then I'm guessing you're looking for an alternative to WordPress the same way I was not too long ago. Hopefully I've done a good job of pointing out the pain points of dynamic CMSs, which are also the strenghts of SSGs. If you'd like to experiment with static sites, but you're not quite ready to give up your dynamic CMS cold turkey...well my friend, you're in luck. With tools like [Forestry](https://forestry.io/), Jekyll and other SSGs can go from a "blogging platform for hackers" to a user-friendly GUI equipped with some of the same tools you know and love (WYSIWYG for the win!).  
